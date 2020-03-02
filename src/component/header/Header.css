@@ -1,6 +1,6 @@
 .header{
     position: relative;
-    width:100%;
+    width:80vw;
     height: 7.7%;
     background-color: #202020;
   }
@@ -8,11 +8,11 @@
   .menu{
     /* padding: 1px; */
     position: relative;
-    width:100%;
+    width:80vw;
     height: 7vh;
     color:#f9f9f9;
   }
 
   .btn-login{
-    margin-left:75vw;
+    margin-left:55vw;
   }
