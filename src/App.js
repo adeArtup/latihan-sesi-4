@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Headers from "./component/header/Header.js";
 import ConHead from "./component/content/ContentHeader.js";
-import ConBody from "./component/content/ContentCons.js";
+import ConCont from "./component/content/ContentCons.js";
 import "./App.css";
 class App extends Component {
   render() {
@@ -9,7 +9,7 @@ class App extends Component {
       <div className="App">
         <Headers />
         <ConHead />
-        {/* <ConBody /> */}
+        <ConCont />
       </div>
     );
   }
